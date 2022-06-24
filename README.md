@@ -1,6 +1,4 @@
-# gzhu-network-course-design
-
-广州某高校网络工程专业课程设计
+# 广州某高校网络工程专业课程设计
 
 使用Cisco Packet Tracer
 
